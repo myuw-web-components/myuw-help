@@ -1,5 +1,10 @@
 # myuw-help versions
 
+## 1.5.4
+
+2022-02-14
+
+* Move backdrop shadow inside of dialog container to improve Screen Reader navigation across the browsers
 ## 1.5.3
 
 2020-04-23
