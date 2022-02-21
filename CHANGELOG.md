@@ -4,6 +4,7 @@
 
 2022-02-14
 
+* Update dialog position from fixed to absolute
 * Move backdrop shadow inside of dialog container to improve Screen Reader navigation across the browsers
 ## 1.5.3
 
