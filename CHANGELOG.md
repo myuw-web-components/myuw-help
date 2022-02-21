@@ -1,10 +1,11 @@
 # myuw-help versions
 
-## 1.5.4
+## 1.5.5
 
 2022-02-21
 
 * Update dialog position from fixed to absolute
+
 ## 1.5.4
 
 2022-02-14
