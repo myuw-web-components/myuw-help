@@ -2,8 +2,8 @@
   "name": "@myuw-web-components/myuw-help",
   "version": "1.5.4",
   "description": "",
-  "module": "dist/myuw-feedback.min.mjs",
-  "browser": "dist/myuw-feedback.min.js",
+  "module": "dist/myuw-help.min.mjs",
+  "browser": "dist/myuw-help.min.js",
   "scripts": {
     "build": "rollup -c",
     "watch": "rollup -c -w",
@@ -14,14 +14,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/myuw-web-components/myuw-feedback.git"
+    "url": "git+https://github.com/myuw-web-components/myuw-help.git"
   },
   "author": "",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/myuw-web-components/myuw-feedback/issues"
+    "url": "https://github.com/myuw-web-components/myuw-help/issues"
   },
-  "homepage": "https://github.com/myuw-web-components/myuw-feedback#readme",
+  "homepage": "https://github.com/myuw-web-components/myuw-help#readme",
   "devDependencies": {
     "@babel/core": "^7.7.2",
     "@babel/preset-env": "^7.7.1",
