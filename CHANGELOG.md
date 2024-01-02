@@ -1,5 +1,9 @@
 # myuw-help versions
 
+## 1.5.6
+
+* Remove references to Roboto and Arial fonts and replaced with Red Hat Display and Red Hat Text
+
 ## 1.5.5
 
 2022-02-21
