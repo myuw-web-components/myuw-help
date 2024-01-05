@@ -1,5 +1,9 @@
 # myuw-help versions
 
+## 1.5.7
+
+* Update font-weight of dialog content
+
 ## 1.5.6
 
 * Remove references to Roboto and Arial fonts and replaced with Red Hat Display and Red Hat Text
