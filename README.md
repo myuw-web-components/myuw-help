@@ -1,5 +1,7 @@
 # myuw-help
 
+**`myuw-help` is not currently maintained.**
+
 This component provides a way to present help/feedback resources and information in a dialog so users can get help quickly, without leaving the page.
 
 ## Getting started
